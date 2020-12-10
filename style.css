@@ -31,6 +31,10 @@ input{
     padding: 1rem 0.5rem;
     box-shadow: 0px 4px 10px -2px grey;
 }
+.error{
+    border-color: red;
+}
+
 label{
     font-size: large;
     color: #1f2929;
